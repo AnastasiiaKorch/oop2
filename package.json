@@ -31,6 +31,8 @@
   "dependencies": {
     "core-js": "^3.26.1",
     "eslint": "^8.28.0",
-    "jest-webpack": "^0.5.1"
+    "jest-webpack": "^0.5.1",
+    "webpack": "^5.75.0",
+    "webpack-dev-server": "^4.11.1"
   }
 }
